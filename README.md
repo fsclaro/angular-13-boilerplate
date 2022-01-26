@@ -1,4 +1,5 @@
-# Almanac - A Boilerplate for Angular 13 Project (alpha version)
+<h1 align="center">Almanac - A Boilerplate for Angular 13 Project</h1>
+<h2 align="center">(alpha version)</h2>
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.4.
 
